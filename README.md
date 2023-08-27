@@ -1,2 +1,1 @@
-# silver-funicular
-el repositorio no me permitió poner mi propio nombre, esta practica es del modulo dos del corso de henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a la computadora.
